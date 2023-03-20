@@ -1,4 +1,8 @@
-# FEATURES 
-Bal:    
-- Nadat er gescoord is zal de bal even wachten zodat de spelers zich kunnen klaarzetten.    
-- De bal zal elke ronde beginnen in een andere richting (doorloopt elke mogelijkheid 1 voor 1) Power-up: De speler die 3 rondes na elkaar verliest krijgt de mogelijkheid om de controls van zijn tegenstander te inverteren (en ook terug normaal te zetten) met een DIP switch tot hij 1 keer heeft kunnen scoren. Op het scherm wordt dit weergegeven met een groen uitroepteken bij de speler die de power-up heeft. Op het bordje zal de LED boven de corresponderende DIP switch branden wanneer de power-up gebruikt kan worden. Wanneer de power-up actief is zal de tegenstander een rode dubbele pijl zien zodat hij weet dat zijn controls geinverteerd zijn.
+#PONG
+Pong in VHDL for Digilent Nexys4 DDR FPGA board
+
+## EXTRA FEATURES 
+Ball:    
+- After a goal is scored, the ball will wait for a while so players can get ready.    
+- The ball will start each round in a different direction (going through each ability 1 by 1) 
+- Power-up: The player who loses 3 rounds in a row will be given the option to invert his opponent's controls (and also put them back to normal) with a DIP switch until he has been able to score 1 time. This will be displayed on the screen with a green exclamation point by the player who has the power-up. On the board, the LED above the corresponding DIP switch will illuminate when the power-up can be used. When the power-up is active the opponent will see a red double arrow so he knows his controls have been inverted.
