@@ -1,0 +1,4 @@
+# FEATURES 
+Bal:    
+- Nadat er gescoord is zal de bal even wachten zodat de spelers zich kunnen klaarzetten.    
+- De bal zal elke ronde beginnen in een andere richting (doorloopt elke mogelijkheid 1 voor 1) Power-up: De speler die 3 rondes na elkaar verliest krijgt de mogelijkheid om de controls van zijn tegenstander te inverteren (en ook terug normaal te zetten) met een DIP switch tot hij 1 keer heeft kunnen scoren. Op het scherm wordt dit weergegeven met een groen uitroepteken bij de speler die de power-up heeft. Op het bordje zal de LED boven de corresponderende DIP switch branden wanneer de power-up gebruikt kan worden. Wanneer de power-up actief is zal de tegenstander een rode dubbele pijl zien zodat hij weet dat zijn controls geinverteerd zijn.
