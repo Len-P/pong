@@ -1,5 +1,5 @@
 # PONG
-Pong in VHDL for Digilent Nexys4 DDR FPGA board
+Pong in VHDL for Digilent Nexys4 DDR FPGA board. Developed for a digital electronics course at the University of Antwerp. **(Grade: 15/20)**
 
 ## EXTRA FEATURES   
 - After a goal is scored, the ball will wait for a while so players can get ready.    
